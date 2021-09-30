@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-30T18:53:13Z" name="Suite" finished-at="2021-09-30T18:53:14Z" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2021-09-30T18:53:13Z" name="Test" finished-at="2021-09-30T18:53:14Z" duration-ms="37">
+      <class name="hakyMaven.project1.pages.IELoadTest">
+        <test-method signature="loadIEDriver()[pri:0, instance:hakyMaven.project1.pages.IELoadTest@198d6542]" started-at="2021-10-01T00:23:14Z" name="loadIEDriver" finished-at="2021-10-01T00:23:14Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadIEDriver -->
+        <test-method signature="loginIETest()[pri:0, instance:hakyMaven.project1.pages.IELoadTest@198d6542]" started-at="2021-10-01T00:23:14Z" name="loginIETest" finished-at="2021-10-01T00:23:14Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIETest -->
+      </class> <!-- hakyMaven.project1.pages.IELoadTest -->
+      <class name="hakyMaven.project1.pages.ChromeLoadTest">
+        <test-method signature="loadChromeDriver()[pri:0, instance:hakyMaven.project1.pages.ChromeLoadTest@2931522b]" started-at="2021-10-01T00:23:14Z" name="loadChromeDriver" finished-at="2021-10-01T00:23:14Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadChromeDriver -->
+        <test-method signature="loginChromeTest()[pri:0, instance:hakyMaven.project1.pages.ChromeLoadTest@2931522b]" started-at="2021-10-01T00:23:14Z" name="loginChromeTest" finished-at="2021-10-01T00:23:14Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginChromeTest -->
+      </class> <!-- hakyMaven.project1.pages.ChromeLoadTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
