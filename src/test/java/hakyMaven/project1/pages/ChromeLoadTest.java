@@ -6,7 +6,7 @@ public class ChromeLoadTest {
 	@Test
 	public void loadChromeDriver()
 	{
-		System.out.println("Loading Chrome Driver.... haky update");
+		System.out.println("Loading Chrome Driver.... haky update2");
 	}
 	
 	@Test
